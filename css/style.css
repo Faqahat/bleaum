@@ -265,17 +265,17 @@ ul {
 	-webkit-transition: all 0.2s ease-out;
 }
 
-/* OKDOTHIS */
-.okdothis {
-	background-color: #f2816b;
+/* onboard */
+.onboard {
+	background-color: #005d2d;
 }
 
-.okdothis:hover {
-	background-color: #cc6d5a;
-	box-shadow: inset 0 0 0 1.25vw #f2816b;
+.onboard:hover {
+	background-color: #125130;
+	box-shadow: inset 0 0 0 1.25vw #1a7144;
 }
 
-.okdothis img {
+.onboard img {
 	position: absolute;
 	right: 0%;
 	width: 105%;
@@ -283,7 +283,7 @@ ul {
 	-webkit-transition: all 0.2s ease-out;
 }
 
-.okdothis:hover img {
+.onboard:hover img {
 	width: 100%;
 }
 
@@ -1248,4 +1248,31 @@ ul {
 }
 li {
 	margin-top: 3px;
+}
+.onBoardingButton {
+	all: unset;
+	position: relative;
+	font-family: "Source Sans Pro", helvetica, arial, serif;
+	display: inline-block;
+	max-width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	background-color: #194a03;
+
+	color: #fff;
+	font-size: 20px;
+	border-radius: 25px;
+	padding: 0 33px;
+	font-weight: bold;
+	height: 50px;
+	cursor: pointer;
+	line-height: 50px;
+	text-align: center;
+	margin: 0;
+	text-decoration: none;
+}
+.onBoardingButton:hover {
+	background-color: #2f9300;
+	top: -4px;
 }
