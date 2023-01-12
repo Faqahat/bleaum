@@ -1247,6 +1247,7 @@ ul {
 }
 li {
 	margin-top: 3px;
+	font-size: 14px;
 }
 .onBoardingButton {
 	all: unset;
