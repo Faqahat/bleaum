@@ -560,6 +560,7 @@ ul {
 	margin-bottom: 4.25vw;
 	height: auto;
 	width: 32vw;
+	margin-top: -45px;
 }
 
 .morework-mobile {
@@ -1251,7 +1252,7 @@ ul {
 }
 li {
 	margin-top: 3px;
-	font-size: 14px;
+	font-size: 12px;
 }
 .onBoardingButton {
 	all: unset;
