@@ -81,7 +81,7 @@ a:hover {
 
 h1 {
 	font-variant-ligatures: common-ligatures;
-	margin: 0 0 3.75vw 5.75vw;
+	margin: 0 0 -20px 5.75vw;
 	font-family: "Playfair Display", Times, "Times New Roman", serif;
 	font-size: 3.85vw;
 	font-weight: 900;
@@ -544,6 +544,10 @@ ul {
 	margin: 4vh 0 1vh 6.25vw;
 	padding-top: 10px;
 	width: 19.5vw;
+
+	float: left;
+
+	line-height: 14px;
 }
 
 .projectlist {
