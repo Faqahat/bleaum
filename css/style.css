@@ -1313,16 +1313,16 @@ li {
 	-webkit-text-fill-color: transparent;
 }
 .gradientTwo {
-	background: rgb(241, 127, 209);
+	background: rgb(76, 48, 246);
 	background: linear-gradient(
-		300deg,
-		rgb(255, 252, 104) 0%,
-		rgb(127, 159, 241) 100%
+		120deg,
+		rgba(186, 93, 243, 1) 0%,
+		rgba(76, 48, 246, 1) 100%
 	);
 	background: -webkit-linear-gradient(
 		120deg,
-		rgb(255, 94, 124) 0%,
-		rgb(127, 159, 241) 100%
+		rgba(186, 93, 243, 1) 0%,
+		rgba(76, 48, 246, 1) 100%
 	);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
