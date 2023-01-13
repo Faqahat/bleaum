@@ -71,12 +71,12 @@ body {
 
 a {
 	text-decoration: none;
-	color: #383838;
+	color: #2e2e2e;
 }
 
 a:hover {
 	-webkit-transition: color 0.35s;
-	color: #999;
+	color: rgb(195, 195, 195);
 }
 
 h1 {
@@ -1313,16 +1313,16 @@ li {
 	-webkit-text-fill-color: transparent;
 }
 .gradientTwo {
-	background: rgb(76, 48, 246);
+	background: rgb(218, 124, 90);
 	background: linear-gradient(
 		120deg,
-		rgba(186, 93, 243, 1) 0%,
-		rgba(76, 48, 246, 1) 100%
+		rgba(218, 124, 90, 1) 0%,
+		rgba(207, 151, 146, 1) 100%
 	);
 	background: -webkit-linear-gradient(
 		120deg,
-		rgba(186, 93, 243, 1) 0%,
-		rgba(76, 48, 246, 1) 100%
+		rgba(218, 124, 90, 1) 0%,
+		rgba(207, 151, 146, 1) 100%
 	);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
